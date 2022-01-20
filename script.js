@@ -1,2 +1,2 @@
 const zxc = "qwe"
-let
+let qwe;
